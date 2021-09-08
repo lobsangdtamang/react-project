@@ -31,7 +31,7 @@ function App() {
               </div>
             </li>
             <li className="nav-item">
-              <a className="nav-link disabled" href="/">Disabled</a>
+              <a className="nav-link disabled" href="/">Disabled Changes</a>
             </li>
           </ul>
           <form className="form-inline my-2 my-lg-0">
